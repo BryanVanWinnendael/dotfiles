@@ -1,5 +1,5 @@
 # Omarchy setup
 
-![scr1](./screenshots/Pasted image (2).png)
+![scr1](https://github.com/BryanVanWinnendael/dotfiles/blob/main/screenshots/Pasted%20image%20(2).png)
 
-![scr2](./screenshots/Pasted image (3).png)
+![scr2](https://github.com/BryanVanWinnendael/dotfiles/blob/main/screenshots/Pasted%20image%20(3).png)
