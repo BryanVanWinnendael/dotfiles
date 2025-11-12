@@ -1,4 +1,4 @@
-# Omarchy setup
+# Omarchy dotfiles
 
 ![scr1](https://github.com/BryanVanWinnendael/dotfiles/blob/main/screenshots/Pasted%20image%20(2).png)
 
